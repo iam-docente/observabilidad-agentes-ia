@@ -1,0 +1,6 @@
+{
+  "name": "Observabilidad de Agentes IA - Guía Interactiva y Laboratorio",
+  "description": "Guía interactiva paso a paso sobre observabilidad en agentes de IA: telemetría, logs JSON, métricas, trazas distribuidas, simuladores y diagnóstico de fallos en silencio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
